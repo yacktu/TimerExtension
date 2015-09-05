@@ -1,0 +1,14 @@
+#background{
+  padding: 10px;
+  height: 200px;
+  width: 400px;
+}
+
+#size{
+  border: 5px solid black;
+  width: 210px;
+}
+
+.buttons{
+  float:left;
+}
